@@ -7,12 +7,11 @@ my leetcode:
 
 <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bwbeas&theme=radical"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwbeas&layout=donut-vertical&theme=dark"/>
 
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bwbeas&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/bwbeas"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bwbeas&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/bwbeas"
+  width="600"
+  height="300"
+/>
 </a>
   
