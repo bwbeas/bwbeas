@@ -4,4 +4,4 @@ my leetcode:
 
 <img height="180em" src="https://leetcard.jacoblin.cool/bwbeas?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 
-<img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bwbeas&theme=radical"/>
+<img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bwbeas&theme=radical"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwbeas&layout=donut-vertical&theme=dark"/>
