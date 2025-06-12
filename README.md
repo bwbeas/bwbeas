@@ -10,8 +10,8 @@ my leetcode:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bwbeas&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/bwbeas"
-  width="600"
-  height="100"
+  width="500"
+  height="250"
 />
 </a>
   
