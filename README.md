@@ -3,12 +3,4 @@
 
 <img height = "250px"  width="350px" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bwbeas&theme=radical"/> <img height="120" 
   width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwbeas&layout=donut-vertical&theme=dark"/>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bwbeas&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/bwbeas"
-  width="500"
-  height="250"
-/>
-</a>
   
